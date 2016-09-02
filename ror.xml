@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://siddhivinayakarts.github.io/</title>
+  <link>https://siddhivinayakarts.github.io/</link>
+
+<item>
+     <link>https://siddhivinayakarts.github.io/</link>
+     <title>Siddhi Vinayak Arts, Pune | Artist Vinayak Kumbhar | Ganesh Murti Maker Pune </title>
+     <description>Vinayak Kumbhar has been making Ganesha idols for decades. In the last 35 years he has made various types of Ganesh, Durga Devi, Shivaji Maharaj idols as per customer requirement.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://siddhivinayakarts.github.io/index.html</link>
+     <title>Siddhi Vinayak Arts, Pune | Artist Vinayak Kumbhar | Ganesh Murti Maker Pune </title>
+     <description>Vinayak Kumbhar has been making Ganesha idols for decades. In the last 35 years he has made various types of Ganesh, Durga Devi, Shivaji Maharaj idols as per customer requirement.</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
